@@ -1,10 +1,10 @@
 # Flipper-Finds
 Compilation of Sub-GHz, RFID, NFC, and other finds made with a Flipper Zero
 
-* Doorbells
+## Doorbells
 
-** GE Two-Melody Wireless Doorbell, manufacturer Jasco
+* GE Two-Melody Wireless Doorbell, manufacturer Jasco
 
-* LED
+## LED
 
-** Illuminated Dreamz "On Air" LED Sign with Remote -- [vendor page](https://www.illuminateddreamz.com/product-page/on-air-sign-1)
+* Illuminated Dreamz "On Air" LED Sign with Remote -- [vendor page](https://www.illuminateddreamz.com/product-page/on-air-sign-1)
